@@ -1,0 +1,23 @@
+# 人工筛掉的低质图（截图/实拍/周边/其他角色），不参与站点
+assets/rejected*/
+
+# 采集与调试产物
+tools/cache/
+tools/shots/
+tools/sheets*/
+tools/*.log
+seen_urls.json
+
+# 冗余原图目录（瘦身后画廊使用 assets/full/）
+assets/wallpapers/
+assets/incoming/
+assets/incoming3/
+
+# 系统与运行时
+.dsh-progress/
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 官方原图（已转为 assets/full/*.webp，保留 manifest.json 作溯源）
+assets/official/*.png

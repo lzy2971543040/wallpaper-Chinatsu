@@ -1,0 +1,1793 @@
+[
+ {
+  "id": "001",
+  "src": "assets/wallpapers/001.jpg",
+  "thumb": "assets/thumbs/001.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 369383,
+  "color": "#90686f"
+ },
+ {
+  "id": "002",
+  "src": "assets/wallpapers/002.jpg",
+  "thumb": "assets/thumbs/002.webp",
+  "w": 690,
+  "h": 1608,
+  "bytes": 160629,
+  "color": "#c8c2c4"
+ },
+ {
+  "id": "003",
+  "src": "assets/wallpapers/003.png",
+  "thumb": "assets/thumbs/003.webp",
+  "w": 2107,
+  "h": 4000,
+  "bytes": 6939580,
+  "color": "#7f7f89"
+ },
+ {
+  "id": "004",
+  "src": "assets/wallpapers/004.jpg",
+  "thumb": "assets/thumbs/004.webp",
+  "w": 1668,
+  "h": 2388,
+  "bytes": 676469,
+  "color": "#c0b9be"
+ },
+ {
+  "id": "005",
+  "src": "assets/wallpapers/005.png",
+  "thumb": "assets/thumbs/005.webp",
+  "w": 1800,
+  "h": 2248,
+  "bytes": 4976318,
+  "color": "#ccc6ca"
+ },
+ {
+  "id": "006",
+  "src": "assets/wallpapers/006.jpg",
+  "thumb": "assets/thumbs/006.webp",
+  "w": 690,
+  "h": 1102,
+  "bytes": 230580,
+  "color": "#c2c1c3"
+ },
+ {
+  "id": "007",
+  "src": "assets/wallpapers/007.jpg",
+  "thumb": "assets/thumbs/007.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 314342,
+  "color": "#6c5f66"
+ },
+ {
+  "id": "008",
+  "src": "assets/wallpapers/008.jpg",
+  "thumb": "assets/thumbs/008.webp",
+  "w": 1200,
+  "h": 1698,
+  "bytes": 435745,
+  "color": "#c6b7af"
+ },
+ {
+  "id": "009",
+  "src": "assets/wallpapers/009.png",
+  "thumb": "assets/thumbs/009.webp",
+  "w": 2426,
+  "h": 4096,
+  "bytes": 4206453,
+  "color": "#ddd6d7"
+ },
+ {
+  "id": "010",
+  "src": "assets/wallpapers/010.jpg",
+  "thumb": "assets/thumbs/010.webp",
+  "w": 1412,
+  "h": 2000,
+  "bytes": 367833,
+  "color": "#9d8fa0"
+ },
+ {
+  "id": "011",
+  "src": "assets/wallpapers/011.png",
+  "thumb": "assets/thumbs/011.webp",
+  "w": 794,
+  "h": 1200,
+  "bytes": 624816,
+  "color": "#ded3d4"
+ },
+ {
+  "id": "012",
+  "src": "assets/wallpapers/012.jpg",
+  "thumb": "assets/thumbs/012.webp",
+  "w": 1600,
+  "h": 2682,
+  "bytes": 468154,
+  "color": "#d2bcaa"
+ },
+ {
+  "id": "013",
+  "src": "assets/wallpapers/013.jpg",
+  "thumb": "assets/thumbs/013.webp",
+  "w": 675,
+  "h": 1200,
+  "bytes": 140541,
+  "color": "#ccbab4"
+ },
+ {
+  "id": "014",
+  "src": "assets/wallpapers/014.jpg",
+  "thumb": "assets/thumbs/014.webp",
+  "w": 1784,
+  "h": 2400,
+  "bytes": 568775,
+  "color": "#cab3ba"
+ },
+ {
+  "id": "015",
+  "src": "assets/wallpapers/015.jpg",
+  "thumb": "assets/thumbs/015.webp",
+  "w": 1080,
+  "h": 1792,
+  "bytes": 865165,
+  "color": "#7a6c63"
+ },
+ {
+  "id": "016",
+  "src": "assets/wallpapers/016.jpg",
+  "thumb": "assets/thumbs/016.webp",
+  "w": 1280,
+  "h": 815,
+  "bytes": 368728,
+  "color": "#cabbc0"
+ },
+ {
+  "id": "017",
+  "src": "assets/wallpapers/017.jpg",
+  "thumb": "assets/thumbs/017.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 915348,
+  "color": "#c9c9b3"
+ },
+ {
+  "id": "018",
+  "src": "assets/wallpapers/018.jpg",
+  "thumb": "assets/thumbs/018.webp",
+  "w": 1416,
+  "h": 2000,
+  "bytes": 347319,
+  "color": "#bdaba8"
+ },
+ {
+  "id": "019",
+  "src": "assets/wallpapers/019.png",
+  "thumb": "assets/thumbs/019.webp",
+  "w": 1948,
+  "h": 3727,
+  "bytes": 4064041,
+  "color": "#a6998b"
+ },
+ {
+  "id": "020",
+  "src": "assets/wallpapers/020.png",
+  "thumb": "assets/thumbs/020.webp",
+  "w": 1080,
+  "h": 1440,
+  "bytes": 1611748,
+  "color": "#d4bd89"
+ },
+ {
+  "id": "021",
+  "src": "assets/wallpapers/021.jpg",
+  "thumb": "assets/thumbs/021.webp",
+  "w": 3136,
+  "h": 2508,
+  "bytes": 930053,
+  "color": "#b5a3a6"
+ },
+ {
+  "id": "022",
+  "src": "assets/wallpapers/022.jpg",
+  "thumb": "assets/thumbs/022.webp",
+  "w": 1357,
+  "h": 1920,
+  "bytes": 228243,
+  "color": "#715a67"
+ },
+ {
+  "id": "023",
+  "src": "assets/wallpapers/023.jpg",
+  "thumb": "assets/thumbs/023.webp",
+  "w": 690,
+  "h": 1263,
+  "bytes": 145396,
+  "color": "#d6d3d2"
+ },
+ {
+  "id": "024",
+  "src": "assets/wallpapers/024.jpg",
+  "thumb": "assets/thumbs/024.webp",
+  "w": 1446,
+  "h": 2048,
+  "bytes": 354030,
+  "color": "#d7ced3"
+ },
+ {
+  "id": "025",
+  "src": "assets/wallpapers/025.jpg",
+  "thumb": "assets/thumbs/025.webp",
+  "w": 1522,
+  "h": 2048,
+  "bytes": 423752,
+  "color": "#ccc1cc"
+ },
+ {
+  "id": "026",
+  "src": "assets/wallpapers/026.jpg",
+  "thumb": "assets/thumbs/026.webp",
+  "w": 1298,
+  "h": 2048,
+  "bytes": 363161,
+  "color": "#756f7b"
+ },
+ {
+  "id": "027",
+  "src": "assets/wallpapers/027.jpg",
+  "thumb": "assets/thumbs/027.webp",
+  "w": 1372,
+  "h": 2048,
+  "bytes": 422469,
+  "color": "#b5aaa8"
+ },
+ {
+  "id": "028",
+  "src": "assets/wallpapers/028.jpg",
+  "thumb": "assets/thumbs/028.webp",
+  "w": 1200,
+  "h": 1633,
+  "bytes": 344320,
+  "color": "#cec1c0"
+ },
+ {
+  "id": "029",
+  "src": "assets/wallpapers/029.jpg",
+  "thumb": "assets/thumbs/029.webp",
+  "w": 1436,
+  "h": 810,
+  "bytes": 519522,
+  "color": "#6b6662"
+ },
+ {
+  "id": "030",
+  "src": "assets/wallpapers/030.jpg",
+  "thumb": "assets/thumbs/030.webp",
+  "w": 3000,
+  "h": 3182,
+  "bytes": 635669,
+  "color": "#ebe1d8"
+ },
+ {
+  "id": "031",
+  "src": "assets/wallpapers/031.jpg",
+  "thumb": "assets/thumbs/031.webp",
+  "w": 1355,
+  "h": 1900,
+  "bytes": 298892,
+  "color": "#c0bebe"
+ },
+ {
+  "id": "032",
+  "src": "assets/wallpapers/032.jpg",
+  "thumb": "assets/thumbs/032.webp",
+  "w": 1554,
+  "h": 2104,
+  "bytes": 330771,
+  "color": "#b9b9c0"
+ },
+ {
+  "id": "033",
+  "src": "assets/wallpapers/033.png",
+  "thumb": "assets/thumbs/033.webp",
+  "w": 1409,
+  "h": 2782,
+  "bytes": 1878577,
+  "color": "#c0c4c5"
+ },
+ {
+  "id": "034",
+  "src": "assets/wallpapers/034.jpg",
+  "thumb": "assets/thumbs/034.webp",
+  "w": 2892,
+  "h": 4096,
+  "bytes": 1372817,
+  "color": "#c3c8c8"
+ },
+ {
+  "id": "035",
+  "src": "assets/wallpapers/035.jpg",
+  "thumb": "assets/thumbs/035.webp",
+  "w": 850,
+  "h": 1200,
+  "bytes": 143137,
+  "color": "#a892a0"
+ },
+ {
+  "id": "036",
+  "src": "assets/wallpapers/036.jpg",
+  "thumb": "assets/thumbs/036.webp",
+  "w": 1192,
+  "h": 2205,
+  "bytes": 228737,
+  "color": "#d1ced5"
+ },
+ {
+  "id": "037",
+  "src": "assets/wallpapers/037.jpg",
+  "thumb": "assets/thumbs/037.webp",
+  "w": 3403,
+  "h": 4418,
+  "bytes": 908577,
+  "color": "#a6a49b"
+ },
+ {
+  "id": "038",
+  "src": "assets/wallpapers/038.jpg",
+  "thumb": "assets/thumbs/038.webp",
+  "w": 750,
+  "h": 1200,
+  "bytes": 148422,
+  "color": "#cabdbd"
+ },
+ {
+  "id": "039",
+  "src": "assets/wallpapers/039.jpg",
+  "thumb": "assets/thumbs/039.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 364414,
+  "color": "#7c6771"
+ },
+ {
+  "id": "040",
+  "src": "assets/wallpapers/040.png",
+  "thumb": "assets/thumbs/040.webp",
+  "w": 1600,
+  "h": 678,
+  "bytes": 1446800,
+  "color": "#bd8d86"
+ },
+ {
+  "id": "041",
+  "src": "assets/wallpapers/041.jpg",
+  "thumb": "assets/thumbs/041.webp",
+  "w": 1438,
+  "h": 812,
+  "bytes": 1383207,
+  "color": "#77767a"
+ },
+ {
+  "id": "042",
+  "src": "assets/wallpapers/042.jpg",
+  "thumb": "assets/thumbs/042.webp",
+  "w": 2583,
+  "h": 4096,
+  "bytes": 617861,
+  "color": "#e6dbdc"
+ },
+ {
+  "id": "043",
+  "src": "assets/wallpapers/043.jpg",
+  "thumb": "assets/thumbs/043.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 421367,
+  "color": "#72727c"
+ },
+ {
+  "id": "044",
+  "src": "assets/wallpapers/044.jpg",
+  "thumb": "assets/thumbs/044.webp",
+  "w": 4096,
+  "h": 2194,
+  "bytes": 1280075,
+  "color": "#c2acab"
+ },
+ {
+  "id": "045",
+  "src": "assets/wallpapers/045.jpg",
+  "thumb": "assets/thumbs/045.webp",
+  "w": 1200,
+  "h": 1698,
+  "bytes": 157933,
+  "color": "#b29a97"
+ },
+ {
+  "id": "046",
+  "src": "assets/wallpapers/046.jpg",
+  "thumb": "assets/thumbs/046.webp",
+  "w": 2275,
+  "h": 1280,
+  "bytes": 338364,
+  "color": "#b5a2a4"
+ },
+ {
+  "id": "047",
+  "src": "assets/wallpapers/047.jpg",
+  "thumb": "assets/thumbs/047.webp",
+  "w": 1200,
+  "h": 1960,
+  "bytes": 396732,
+  "color": "#c3b4c0"
+ },
+ {
+  "id": "048",
+  "src": "assets/wallpapers/048.jpg",
+  "thumb": "assets/thumbs/048.webp",
+  "w": 1467,
+  "h": 2048,
+  "bytes": 349950,
+  "color": "#ccc7c9"
+ },
+ {
+  "id": "049",
+  "src": "assets/wallpapers/049.jpg",
+  "thumb": "assets/thumbs/049.webp",
+  "w": 904,
+  "h": 1200,
+  "bytes": 135331,
+  "color": "#a29fa8"
+ },
+ {
+  "id": "050",
+  "src": "assets/wallpapers/050.jpg",
+  "thumb": "assets/thumbs/050.webp",
+  "w": 756,
+  "h": 1200,
+  "bytes": 151431,
+  "color": "#b0a5a3"
+ },
+ {
+  "id": "051",
+  "src": "assets/wallpapers/051.jpg",
+  "thumb": "assets/thumbs/051.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 631101,
+  "color": "#756145"
+ },
+ {
+  "id": "052",
+  "src": "assets/wallpapers/052.jpg",
+  "thumb": "assets/thumbs/052.webp",
+  "w": 1920,
+  "h": 1440,
+  "bytes": 349648,
+  "color": "#9d8b87"
+ },
+ {
+  "id": "053",
+  "src": "assets/wallpapers/053.jpg",
+  "thumb": "assets/thumbs/053.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 155950,
+  "color": "#6d715d"
+ },
+ {
+  "id": "054",
+  "src": "assets/wallpapers/054.jpg",
+  "thumb": "assets/thumbs/054.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 796896,
+  "color": "#a7877b"
+ },
+ {
+  "id": "055",
+  "src": "assets/wallpapers/055.jpg",
+  "thumb": "assets/thumbs/055.webp",
+  "w": 814,
+  "h": 1200,
+  "bytes": 137620,
+  "color": "#927e92"
+ },
+ {
+  "id": "056",
+  "src": "assets/wallpapers/056.jpg",
+  "thumb": "assets/thumbs/056.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 399272,
+  "color": "#9ecac8"
+ },
+ {
+  "id": "057",
+  "src": "assets/wallpapers/057.jpg",
+  "thumb": "assets/thumbs/057.webp",
+  "w": 1600,
+  "h": 2500,
+  "bytes": 360266,
+  "color": "#cec1c5"
+ },
+ {
+  "id": "058",
+  "src": "assets/wallpapers/058.jpg",
+  "thumb": "assets/thumbs/058.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 456170,
+  "color": "#acafa3"
+ },
+ {
+  "id": "059",
+  "src": "assets/wallpapers/059.jpg",
+  "thumb": "assets/thumbs/059.webp",
+  "w": 2559,
+  "h": 1600,
+  "bytes": 1315709,
+  "color": "#4f4e6b"
+ },
+ {
+  "id": "060",
+  "src": "assets/wallpapers/060.jpg",
+  "thumb": "assets/thumbs/060.webp",
+  "w": 3840,
+  "h": 2160,
+  "bytes": 3707540,
+  "color": "#899178"
+ },
+ {
+  "id": "061",
+  "src": "assets/wallpapers/061.jpg",
+  "thumb": "assets/thumbs/061.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 268648,
+  "color": "#7d6971"
+ },
+ {
+  "id": "062",
+  "src": "assets/wallpapers/062.jpg",
+  "thumb": "assets/thumbs/062.webp",
+  "w": 3253,
+  "h": 2590,
+  "bytes": 349857,
+  "color": "#e9e7eb"
+ },
+ {
+  "id": "063",
+  "src": "assets/wallpapers/063.jpg",
+  "thumb": "assets/thumbs/063.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 389738,
+  "color": "#cfd4bc"
+ },
+ {
+  "id": "064",
+  "src": "assets/wallpapers/064.jpg",
+  "thumb": "assets/thumbs/064.webp",
+  "w": 2041,
+  "h": 1148,
+  "bytes": 242679,
+  "color": "#515060"
+ },
+ {
+  "id": "065",
+  "src": "assets/wallpapers/065.jpg",
+  "thumb": "assets/thumbs/065.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 136879,
+  "color": "#bf98a2"
+ },
+ {
+  "id": "066",
+  "src": "assets/wallpapers/066.jpg",
+  "thumb": "assets/thumbs/066.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 308907,
+  "color": "#968d88"
+ },
+ {
+  "id": "067",
+  "src": "assets/wallpapers/067.jpg",
+  "thumb": "assets/thumbs/067.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 317074,
+  "color": "#719098"
+ },
+ {
+  "id": "068",
+  "src": "assets/wallpapers/068.jpg",
+  "thumb": "assets/thumbs/068.webp",
+  "w": 2016,
+  "h": 1134,
+  "bytes": 315347,
+  "color": "#5e6658"
+ },
+ {
+  "id": "069",
+  "src": "assets/wallpapers/069.jpg",
+  "thumb": "assets/thumbs/069.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 265432,
+  "color": "#987c70"
+ },
+ {
+  "id": "070",
+  "src": "assets/wallpapers/070.jpg",
+  "thumb": "assets/thumbs/070.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 369562,
+  "color": "#adaeae"
+ },
+ {
+  "id": "071",
+  "src": "assets/wallpapers/071.jpg",
+  "thumb": "assets/thumbs/071.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 1024763,
+  "color": "#b58696"
+ },
+ {
+  "id": "072",
+  "src": "assets/wallpapers/072.jpg",
+  "thumb": "assets/thumbs/072.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 685076,
+  "color": "#c2bb76"
+ },
+ {
+  "id": "073",
+  "src": "assets/wallpapers/073.jpg",
+  "thumb": "assets/thumbs/073.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 387743,
+  "color": "#6c6260"
+ },
+ {
+  "id": "074",
+  "src": "assets/wallpapers/074.jpg",
+  "thumb": "assets/thumbs/074.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 725931,
+  "color": "#5d668b"
+ },
+ {
+  "id": "075",
+  "src": "assets/wallpapers/075.jpg",
+  "thumb": "assets/thumbs/075.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 185189,
+  "color": "#545e84"
+ },
+ {
+  "id": "076",
+  "src": "assets/wallpapers/076.jpg",
+  "thumb": "assets/thumbs/076.webp",
+  "w": 1440,
+  "h": 810,
+  "bytes": 159449,
+  "color": "#bda9b2"
+ },
+ {
+  "id": "077",
+  "src": "assets/wallpapers/077.jpg",
+  "thumb": "assets/thumbs/077.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 529262,
+  "color": "#d0cad0"
+ },
+ {
+  "id": "078",
+  "src": "assets/wallpapers/078.jpg",
+  "thumb": "assets/thumbs/078.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 132417,
+  "color": "#da9285"
+ },
+ {
+  "id": "079",
+  "src": "assets/wallpapers/079.jpg",
+  "thumb": "assets/thumbs/079.webp",
+  "w": 2160,
+  "h": 1620,
+  "bytes": 980400,
+  "color": "#656890"
+ },
+ {
+  "id": "080",
+  "src": "assets/wallpapers/080.jpg",
+  "thumb": "assets/thumbs/080.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 102086,
+  "color": "#c7c6b7"
+ },
+ {
+  "id": "081",
+  "src": "assets/wallpapers/081.jpg",
+  "thumb": "assets/thumbs/081.webp",
+  "w": 2560,
+  "h": 1439,
+  "bytes": 207507,
+  "color": "#dd9aae"
+ },
+ {
+  "id": "082",
+  "src": "assets/wallpapers/082.jpg",
+  "thumb": "assets/thumbs/082.webp",
+  "w": 1440,
+  "h": 810,
+  "bytes": 94630,
+  "color": "#827e7c"
+ },
+ {
+  "id": "083",
+  "src": "assets/wallpapers/083.png",
+  "thumb": "assets/thumbs/083.webp",
+  "w": 1152,
+  "h": 720,
+  "bytes": 752747,
+  "color": "#bbb3b0"
+ },
+ {
+  "id": "084",
+  "src": "assets/wallpapers/084.jpg",
+  "thumb": "assets/thumbs/084.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 234742,
+  "color": "#ae979d"
+ },
+ {
+  "id": "085",
+  "src": "assets/wallpapers/085.jpg",
+  "thumb": "assets/thumbs/085.webp",
+  "w": 1728,
+  "h": 1080,
+  "bytes": 166029,
+  "color": "#6e6461"
+ },
+ {
+  "id": "086",
+  "src": "assets/wallpapers/086.jpg",
+  "thumb": "assets/thumbs/086.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 1007606,
+  "color": "#c0a3a4"
+ },
+ {
+  "id": "087",
+  "src": "assets/wallpapers/087.jpg",
+  "thumb": "assets/thumbs/087.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 213170,
+  "color": "#843a60"
+ },
+ {
+  "id": "088",
+  "src": "assets/wallpapers/088.png",
+  "thumb": "assets/thumbs/088.webp",
+  "w": 1600,
+  "h": 900,
+  "bytes": 2310291,
+  "color": "#718892"
+ },
+ {
+  "id": "089",
+  "src": "assets/wallpapers/089.jpg",
+  "thumb": "assets/thumbs/089.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 1965671,
+  "color": "#957099"
+ },
+ {
+  "id": "090",
+  "src": "assets/wallpapers/090.jpg",
+  "thumb": "assets/thumbs/090.webp",
+  "w": 2559,
+  "h": 1600,
+  "bytes": 250826,
+  "color": "#9fa18a"
+ },
+ {
+  "id": "091",
+  "src": "assets/wallpapers/091.jpg",
+  "thumb": "assets/thumbs/091.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 518262,
+  "color": "#444141"
+ },
+ {
+  "id": "092",
+  "src": "assets/wallpapers/092.jpg",
+  "thumb": "assets/thumbs/092.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 231860,
+  "color": "#6f6d7b"
+ },
+ {
+  "id": "093",
+  "src": "assets/wallpapers/093.jpg",
+  "thumb": "assets/thumbs/093.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 159481,
+  "color": "#736663"
+ },
+ {
+  "id": "094",
+  "src": "assets/wallpapers/094.jpg",
+  "thumb": "assets/thumbs/094.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 380490,
+  "color": "#8e6d5e"
+ },
+ {
+  "id": "095",
+  "src": "assets/wallpapers/095.jpg",
+  "thumb": "assets/thumbs/095.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 511640,
+  "color": "#7f8a8b"
+ },
+ {
+  "id": "096",
+  "src": "assets/wallpapers/096.jpg",
+  "thumb": "assets/thumbs/096.webp",
+  "w": 1918,
+  "h": 1080,
+  "bytes": 887153,
+  "color": "#a07b7e"
+ },
+ {
+  "id": "097",
+  "src": "assets/wallpapers/097.jpg",
+  "thumb": "assets/thumbs/097.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 262201,
+  "color": "#265466"
+ },
+ {
+  "id": "098",
+  "src": "assets/wallpapers/098.jpg",
+  "thumb": "assets/thumbs/098.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 396728,
+  "color": "#94879d"
+ },
+ {
+  "id": "099",
+  "src": "assets/wallpapers/099.jpg",
+  "thumb": "assets/thumbs/099.webp",
+  "w": 1728,
+  "h": 1080,
+  "bytes": 130908,
+  "color": "#7c78a4"
+ },
+ {
+  "id": "100",
+  "src": "assets/wallpapers/100.jpg",
+  "thumb": "assets/thumbs/100.webp",
+  "w": 1916,
+  "h": 1080,
+  "bytes": 1255027,
+  "color": "#73766f"
+ },
+ {
+  "id": "101",
+  "src": "assets/wallpapers/101.jpg",
+  "thumb": "assets/thumbs/101.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 312952,
+  "color": "#4e433c"
+ },
+ {
+  "id": "102",
+  "src": "assets/wallpapers/102.jpg",
+  "thumb": "assets/thumbs/102.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 404599,
+  "color": "#684f43"
+ },
+ {
+  "id": "103",
+  "src": "assets/wallpapers/103.jpg",
+  "thumb": "assets/thumbs/103.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 308758,
+  "color": "#5a615c"
+ },
+ {
+  "id": "104",
+  "src": "assets/wallpapers/104.jpg",
+  "thumb": "assets/thumbs/104.webp",
+  "w": 2469,
+  "h": 1388,
+  "bytes": 408252,
+  "color": "#86624b"
+ },
+ {
+  "id": "105",
+  "src": "assets/wallpapers/105.jpg",
+  "thumb": "assets/thumbs/105.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 312675,
+  "color": "#5a5d5a"
+ },
+ {
+  "id": "106",
+  "src": "assets/wallpapers/106.jpg",
+  "thumb": "assets/thumbs/106.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 221787,
+  "color": "#a1a2a7"
+ },
+ {
+  "id": "107",
+  "src": "assets/wallpapers/107.jpg",
+  "thumb": "assets/thumbs/107.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 193583,
+  "color": "#a79174"
+ },
+ {
+  "id": "108",
+  "src": "assets/wallpapers/108.jpg",
+  "thumb": "assets/thumbs/108.webp",
+  "w": 2160,
+  "h": 3840,
+  "bytes": 1435964,
+  "color": "#d8c8c8"
+ },
+ {
+  "id": "109",
+  "src": "assets/wallpapers/109.jpg",
+  "thumb": "assets/thumbs/109.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 199434,
+  "color": "#bfd3d7"
+ },
+ {
+  "id": "110",
+  "src": "assets/wallpapers/110.jpg",
+  "thumb": "assets/thumbs/110.webp",
+  "w": 1600,
+  "h": 900,
+  "bytes": 272821,
+  "color": "#8b7f81"
+ },
+ {
+  "id": "111",
+  "src": "assets/wallpapers/111.jpg",
+  "thumb": "assets/thumbs/111.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 221864,
+  "color": "#c1aa9f"
+ },
+ {
+  "id": "112",
+  "src": "assets/wallpapers/112.jpg",
+  "thumb": "assets/thumbs/112.webp",
+  "w": 3087,
+  "h": 2020,
+  "bytes": 279936,
+  "color": "#a17d72"
+ },
+ {
+  "id": "113",
+  "src": "assets/wallpapers/113.jpg",
+  "thumb": "assets/thumbs/113.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 391323,
+  "color": "#9d7669"
+ },
+ {
+  "id": "114",
+  "src": "assets/wallpapers/114.jpg",
+  "thumb": "assets/thumbs/114.webp",
+  "w": 1120,
+  "h": 630,
+  "bytes": 45655,
+  "color": "#877472"
+ },
+ {
+  "id": "115",
+  "src": "assets/wallpapers/115.jpg",
+  "thumb": "assets/thumbs/115.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 451164,
+  "color": "#7a837d"
+ },
+ {
+  "id": "116",
+  "src": "assets/wallpapers/116.jpg",
+  "thumb": "assets/thumbs/116.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 430856,
+  "color": "#676477"
+ },
+ {
+  "id": "117",
+  "src": "assets/wallpapers/117.jpg",
+  "thumb": "assets/thumbs/117.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 277239,
+  "color": "#a0a2b2"
+ },
+ {
+  "id": "118",
+  "src": "assets/wallpapers/118.jpg",
+  "thumb": "assets/thumbs/118.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 348167,
+  "color": "#5d5d62"
+ },
+ {
+  "id": "119",
+  "src": "assets/wallpapers/119.jpg",
+  "thumb": "assets/thumbs/119.webp",
+  "w": 2160,
+  "h": 1620,
+  "bytes": 2027191,
+  "color": "#896860"
+ },
+ {
+  "id": "120",
+  "src": "assets/wallpapers/120.jpg",
+  "thumb": "assets/thumbs/120.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 156301,
+  "color": "#baacb2"
+ },
+ {
+  "id": "121",
+  "src": "assets/wallpapers/121.webp",
+  "thumb": "assets/thumbs/121.webp",
+  "w": 950,
+  "h": 1737,
+  "bytes": 185660,
+  "color": "#cbc5ca"
+ },
+ {
+  "id": "122",
+  "src": "assets/wallpapers/122.jpg",
+  "thumb": "assets/thumbs/122.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 241780,
+  "color": "#916a54"
+ },
+ {
+  "id": "123",
+  "src": "assets/wallpapers/123.jpg",
+  "thumb": "assets/thumbs/123.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 299778,
+  "color": "#c8b4a3"
+ },
+ {
+  "id": "124",
+  "src": "assets/wallpapers/124.jpg",
+  "thumb": "assets/thumbs/124.webp",
+  "w": 1905,
+  "h": 1071,
+  "bytes": 391250,
+  "color": "#636060"
+ },
+ {
+  "id": "125",
+  "src": "assets/wallpapers/125.png",
+  "thumb": "assets/thumbs/125.webp",
+  "w": 808,
+  "h": 1800,
+  "bytes": 1017635,
+  "color": "#cec7ca"
+ },
+ {
+  "id": "126",
+  "src": "assets/wallpapers/126.jpg",
+  "thumb": "assets/thumbs/126.webp",
+  "w": 1751,
+  "h": 984,
+  "bytes": 83557,
+  "color": "#e9e5e4"
+ },
+ {
+  "id": "127",
+  "src": "assets/wallpapers/127.png",
+  "thumb": "assets/thumbs/127.webp",
+  "w": 1080,
+  "h": 1439,
+  "bytes": 3093296,
+  "color": "#c4b5b1"
+ },
+ {
+  "id": "128",
+  "src": "assets/wallpapers/128.jpg",
+  "thumb": "assets/thumbs/128.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 339525,
+  "color": "#d0cdc3"
+ },
+ {
+  "id": "129",
+  "src": "assets/wallpapers/129.jpg",
+  "thumb": "assets/thumbs/129.webp",
+  "w": 799,
+  "h": 1200,
+  "bytes": 220455,
+  "color": "#d2cccd"
+ },
+ {
+  "id": "130",
+  "src": "assets/wallpapers/130.jpg",
+  "thumb": "assets/thumbs/130.webp",
+  "w": 1500,
+  "h": 2245,
+  "bytes": 306244,
+  "color": "#c5bfc2"
+ },
+ {
+  "id": "131",
+  "src": "assets/wallpapers/131.webp",
+  "thumb": "assets/thumbs/131.webp",
+  "w": 1192,
+  "h": 1719,
+  "bytes": 110960,
+  "color": "#c7aaba"
+ },
+ {
+  "id": "132",
+  "src": "assets/wallpapers/132.jpg",
+  "thumb": "assets/thumbs/132.webp",
+  "w": 1200,
+  "h": 1551,
+  "bytes": 475817,
+  "color": "#bdc3af"
+ },
+ {
+  "id": "133",
+  "src": "assets/wallpapers/133.jpg",
+  "thumb": "assets/thumbs/133.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 219056,
+  "color": "#ab99a1"
+ },
+ {
+  "id": "134",
+  "src": "assets/wallpapers/134.jpg",
+  "thumb": "assets/thumbs/134.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 171566,
+  "color": "#cfc4bb"
+ },
+ {
+  "id": "135",
+  "src": "assets/wallpapers/135.jpg",
+  "thumb": "assets/thumbs/135.webp",
+  "w": 690,
+  "h": 6786,
+  "bytes": 1720716,
+  "color": "#767372"
+ },
+ {
+  "id": "136",
+  "src": "assets/wallpapers/136.jpg",
+  "thumb": "assets/thumbs/136.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 391878,
+  "color": "#726e74"
+ },
+ {
+  "id": "137",
+  "src": "assets/wallpapers/137.jpg",
+  "thumb": "assets/thumbs/137.webp",
+  "w": 2376,
+  "h": 1337,
+  "bytes": 375945,
+  "color": "#8c7e7e"
+ },
+ {
+  "id": "138",
+  "src": "assets/wallpapers/138.jpg",
+  "thumb": "assets/thumbs/138.webp",
+  "w": 4160,
+  "h": 3120,
+  "bytes": 3841409,
+  "color": "#5b748c"
+ },
+ {
+  "id": "139",
+  "src": "assets/wallpapers/139.jpg",
+  "thumb": "assets/thumbs/139.webp",
+  "w": 1120,
+  "h": 630,
+  "bytes": 64466,
+  "color": "#89746e"
+ },
+ {
+  "id": "140",
+  "src": "assets/wallpapers/140.jpg",
+  "thumb": "assets/thumbs/140.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 305665,
+  "color": "#676153"
+ },
+ {
+  "id": "141",
+  "src": "assets/wallpapers/141.jpg",
+  "thumb": "assets/thumbs/141.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 185346,
+  "color": "#bfabb7"
+ },
+ {
+  "id": "142",
+  "src": "assets/wallpapers/142.jpg",
+  "thumb": "assets/thumbs/142.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 391147,
+  "color": "#555c5c"
+ },
+ {
+  "id": "143",
+  "src": "assets/wallpapers/143.jpg",
+  "thumb": "assets/thumbs/143.webp",
+  "w": 1080,
+  "h": 2160,
+  "bytes": 361618,
+  "color": "#bcabb3"
+ },
+ {
+  "id": "144",
+  "src": "assets/wallpapers/144.jpg",
+  "thumb": "assets/thumbs/144.webp",
+  "w": 1080,
+  "h": 1440,
+  "bytes": 84532,
+  "color": "#e3e1dc"
+ },
+ {
+  "id": "145",
+  "src": "assets/wallpapers/145.jpg",
+  "thumb": "assets/thumbs/145.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 147505,
+  "color": "#d5b194"
+ },
+ {
+  "id": "146",
+  "src": "assets/wallpapers/146.jpg",
+  "thumb": "assets/thumbs/146.webp",
+  "w": 1179,
+  "h": 1179,
+  "bytes": 136517,
+  "color": "#ae938a"
+ },
+ {
+  "id": "147",
+  "src": "assets/wallpapers/147.jpg",
+  "thumb": "assets/thumbs/147.webp",
+  "w": 1120,
+  "h": 630,
+  "bytes": 138772,
+  "color": "#748899"
+ },
+ {
+  "id": "148",
+  "src": "assets/wallpapers/148.jpg",
+  "thumb": "assets/thumbs/148.webp",
+  "w": 1080,
+  "h": 1920,
+  "bytes": 928062,
+  "color": "#c79fb8"
+ },
+ {
+  "id": "149",
+  "src": "assets/wallpapers/149.jpg",
+  "thumb": "assets/thumbs/149.webp",
+  "w": 1120,
+  "h": 630,
+  "bytes": 120262,
+  "color": "#c09fa6"
+ },
+ {
+  "id": "150",
+  "src": "assets/wallpapers/150.jpg",
+  "thumb": "assets/thumbs/150.webp",
+  "w": 1120,
+  "h": 630,
+  "bytes": 83033,
+  "color": "#8c8c7e"
+ },
+ {
+  "id": "151",
+  "src": "assets/wallpapers/151.jpg",
+  "thumb": "assets/thumbs/151.webp",
+  "w": 690,
+  "h": 1137,
+  "bytes": 101967,
+  "color": "#aaa0a4"
+ },
+ {
+  "id": "152",
+  "src": "assets/wallpapers/152.jpg",
+  "thumb": "assets/thumbs/152.webp",
+  "w": 3600,
+  "h": 3600,
+  "bytes": 3021421,
+  "color": "#c4c7cf"
+ },
+ {
+  "id": "153",
+  "src": "assets/wallpapers/153.jpg",
+  "thumb": "assets/thumbs/153.webp",
+  "w": 2160,
+  "h": 2160,
+  "bytes": 1741908,
+  "color": "#c5aab0"
+ },
+ {
+  "id": "154",
+  "src": "assets/wallpapers/154.jpg",
+  "thumb": "assets/thumbs/154.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 183796,
+  "color": "#365292"
+ },
+ {
+  "id": "155",
+  "src": "assets/wallpapers/155.jpg",
+  "thumb": "assets/thumbs/155.webp",
+  "w": 1120,
+  "h": 630,
+  "bytes": 108467,
+  "color": "#73554c"
+ },
+ {
+  "id": "156",
+  "src": "assets/wallpapers/156.jpg",
+  "thumb": "assets/thumbs/156.webp",
+  "w": 1120,
+  "h": 630,
+  "bytes": 66531,
+  "color": "#96969a"
+ },
+ {
+  "id": "157",
+  "src": "assets/wallpapers/157.jpg",
+  "thumb": "assets/thumbs/157.webp",
+  "w": 1080,
+  "h": 1920,
+  "bytes": 1050766,
+  "color": "#9e988f"
+ },
+ {
+  "id": "158",
+  "src": "assets/wallpapers/158.jpg",
+  "thumb": "assets/thumbs/158.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 609693,
+  "color": "#c2bb76"
+ },
+ {
+  "id": "159",
+  "src": "assets/wallpapers/159.jpg",
+  "thumb": "assets/thumbs/159.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 329493,
+  "color": "#848897"
+ },
+ {
+  "id": "160",
+  "src": "assets/wallpapers/160.jpg",
+  "thumb": "assets/thumbs/160.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 240429,
+  "color": "#a2c2ce"
+ },
+ {
+  "id": "161",
+  "src": "assets/wallpapers/161.jpg",
+  "thumb": "assets/thumbs/161.webp",
+  "w": 1440,
+  "h": 1080,
+  "bytes": 921091,
+  "color": "#c1b8ae"
+ },
+ {
+  "id": "162",
+  "src": "assets/wallpapers/162.jpg",
+  "thumb": "assets/thumbs/162.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 299230,
+  "color": "#c4c0b1"
+ },
+ {
+  "id": "163",
+  "src": "assets/wallpapers/163.jpg",
+  "thumb": "assets/thumbs/163.webp",
+  "w": 1748,
+  "h": 983,
+  "bytes": 203554,
+  "color": "#a497b4"
+ },
+ {
+  "id": "164",
+  "src": "assets/wallpapers/164.jpg",
+  "thumb": "assets/thumbs/164.webp",
+  "w": 2880,
+  "h": 2160,
+  "bytes": 1056390,
+  "color": "#60696b"
+ },
+ {
+  "id": "165",
+  "src": "assets/wallpapers/165.jpg",
+  "thumb": "assets/thumbs/165.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 787867,
+  "color": "#aea1a7"
+ },
+ {
+  "id": "166",
+  "src": "assets/wallpapers/166.jpg",
+  "thumb": "assets/thumbs/166.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 248947,
+  "color": "#897972"
+ },
+ {
+  "id": "167",
+  "src": "assets/wallpapers/167.jpg",
+  "thumb": "assets/thumbs/167.webp",
+  "w": 640,
+  "h": 1138,
+  "bytes": 87223,
+  "color": "#a5aebb"
+ },
+ {
+  "id": "168",
+  "src": "assets/wallpapers/168.webp",
+  "thumb": "assets/thumbs/168.webp",
+  "w": 1192,
+  "h": 2038,
+  "bytes": 286166,
+  "color": "#ab8a96"
+ },
+ {
+  "id": "169",
+  "src": "assets/wallpapers/169.jpg",
+  "thumb": "assets/thumbs/169.webp",
+  "w": 1912,
+  "h": 1075,
+  "bytes": 249349,
+  "color": "#6e8678"
+ },
+ {
+  "id": "170",
+  "src": "assets/wallpapers/170.png",
+  "thumb": "assets/thumbs/170.webp",
+  "w": 2217,
+  "h": 2217,
+  "bytes": 3633616,
+  "color": "#c0b1ad"
+ },
+ {
+  "id": "171",
+  "src": "assets/wallpapers/171.jpg",
+  "thumb": "assets/thumbs/171.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 321689,
+  "color": "#5b848d"
+ },
+ {
+  "id": "172",
+  "src": "assets/wallpapers/172.jpg",
+  "thumb": "assets/thumbs/172.webp",
+  "w": 2048,
+  "h": 2048,
+  "bytes": 569000,
+  "color": "#97706f"
+ },
+ {
+  "id": "173",
+  "src": "assets/wallpapers/173.jpg",
+  "thumb": "assets/thumbs/173.webp",
+  "w": 1440,
+  "h": 1440,
+  "bytes": 396520,
+  "color": "#c4b6c1"
+ },
+ {
+  "id": "174",
+  "src": "assets/wallpapers/174.jpg",
+  "thumb": "assets/thumbs/174.webp",
+  "w": 640,
+  "h": 1138,
+  "bytes": 90174,
+  "color": "#989397"
+ },
+ {
+  "id": "175",
+  "src": "assets/wallpapers/175.jpg",
+  "thumb": "assets/thumbs/175.webp",
+  "w": 1080,
+  "h": 1440,
+  "bytes": 909619,
+  "color": "#bcbab7"
+ },
+ {
+  "id": "176",
+  "src": "assets/wallpapers/176.jpg",
+  "thumb": "assets/thumbs/176.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 216804,
+  "color": "#a88a98"
+ },
+ {
+  "id": "177",
+  "src": "assets/wallpapers/177.jpg",
+  "thumb": "assets/thumbs/177.webp",
+  "w": 2071,
+  "h": 2071,
+  "bytes": 811888,
+  "color": "#b1abac"
+ },
+ {
+  "id": "178",
+  "src": "assets/wallpapers/178.jpg",
+  "thumb": "assets/thumbs/178.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 565887,
+  "color": "#c8af8b"
+ },
+ {
+  "id": "179",
+  "src": "assets/wallpapers/179.jpg",
+  "thumb": "assets/thumbs/179.webp",
+  "w": 1179,
+  "h": 1179,
+  "bytes": 133781,
+  "color": "#7b727c"
+ },
+ {
+  "id": "180",
+  "src": "assets/wallpapers/180.jpg",
+  "thumb": "assets/thumbs/180.webp",
+  "w": 1748,
+  "h": 1748,
+  "bytes": 750521,
+  "color": "#b8a3b1"
+ },
+ {
+  "id": "181",
+  "src": "assets/wallpapers/181.jpg",
+  "thumb": "assets/thumbs/181.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 280102,
+  "color": "#c19ba9"
+ },
+ {
+  "id": "182",
+  "src": "assets/wallpapers/182.jpg",
+  "thumb": "assets/thumbs/182.webp",
+  "w": 1440,
+  "h": 1440,
+  "bytes": 330298,
+  "color": "#7d6c72"
+ },
+ {
+  "id": "183",
+  "src": "assets/wallpapers/183.jpg",
+  "thumb": "assets/thumbs/183.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 289872,
+  "color": "#767594"
+ },
+ {
+  "id": "184",
+  "src": "assets/wallpapers/184.jpg",
+  "thumb": "assets/thumbs/184.webp",
+  "w": 1125,
+  "h": 2000,
+  "bytes": 149213,
+  "color": "#978391"
+ },
+ {
+  "id": "185",
+  "src": "assets/wallpapers/185.jpg",
+  "thumb": "assets/thumbs/185.webp",
+  "w": 1300,
+  "h": 1300,
+  "bytes": 241501,
+  "color": "#e6d6d4"
+ },
+ {
+  "id": "186",
+  "src": "assets/wallpapers/186.jpg",
+  "thumb": "assets/thumbs/186.webp",
+  "w": 2560,
+  "h": 1440,
+  "bytes": 553058,
+  "color": "#a28b65"
+ },
+ {
+  "id": "187",
+  "src": "assets/wallpapers/187.jpg",
+  "thumb": "assets/thumbs/187.webp",
+  "w": 720,
+  "h": 1280,
+  "bytes": 84807,
+  "color": "#807f83"
+ },
+ {
+  "id": "188",
+  "src": "assets/wallpapers/188.jpg",
+  "thumb": "assets/thumbs/188.webp",
+  "w": 1254,
+  "h": 1254,
+  "bytes": 184662,
+  "color": "#cdb4b9"
+ },
+ {
+  "id": "189",
+  "src": "assets/wallpapers/189.jpg",
+  "thumb": "assets/thumbs/189.webp",
+  "w": 1440,
+  "h": 1440,
+  "bytes": 326298,
+  "color": "#6f5f5f"
+ },
+ {
+  "id": "190",
+  "src": "assets/wallpapers/190.jpg",
+  "thumb": "assets/thumbs/190.webp",
+  "w": 2160,
+  "h": 3840,
+  "bytes": 203672,
+  "color": "#88807f"
+ },
+ {
+  "id": "191",
+  "src": "assets/wallpapers/191.jpg",
+  "thumb": "assets/thumbs/191.webp",
+  "w": 1116,
+  "h": 630,
+  "bytes": 41117,
+  "color": "#e9baf6"
+ },
+ {
+  "id": "192",
+  "src": "assets/wallpapers/192.jpg",
+  "thumb": "assets/thumbs/192.webp",
+  "w": 1920,
+  "h": 1080,
+  "bytes": 336574,
+  "color": "#4a5053"
+ },
+ {
+  "id": "193",
+  "src": "assets/wallpapers/193.png",
+  "thumb": "assets/thumbs/193.webp",
+  "w": 1111,
+  "h": 1111,
+  "bytes": 1149594,
+  "color": "#ded0d9"
+ },
+ {
+  "id": "194",
+  "src": "assets/wallpapers/194.jpg",
+  "thumb": "assets/thumbs/194.webp",
+  "w": 1080,
+  "h": 1920,
+  "bytes": 160116,
+  "color": "#957581"
+ },
+ {
+  "id": "195",
+  "src": "assets/wallpapers/195.jpg",
+  "thumb": "assets/thumbs/195.webp",
+  "w": 2160,
+  "h": 3840,
+  "bytes": 621650,
+  "color": "#90857b"
+ },
+ {
+  "id": "196",
+  "src": "assets/wallpapers/196.jpg",
+  "thumb": "assets/thumbs/196.webp",
+  "w": 660,
+  "h": 1471,
+  "bytes": 136310,
+  "color": "#cec8cb"
+ },
+ {
+  "id": "197",
+  "src": "assets/wallpapers/197.jpg",
+  "thumb": "assets/thumbs/197.webp",
+  "w": 960,
+  "h": 1280,
+  "bytes": 66600,
+  "color": "#a9a9b5"
+ },
+ {
+  "id": "198",
+  "src": "assets/wallpapers/198.jpg",
+  "thumb": "assets/thumbs/198.webp",
+  "w": 1142,
+  "h": 623,
+  "bytes": 97416,
+  "color": "#c6bcbd"
+ },
+ {
+  "id": "199",
+  "src": "assets/wallpapers/199.jpg",
+  "thumb": "assets/thumbs/199.webp",
+  "w": 1440,
+  "h": 1080,
+  "bytes": 101906,
+  "color": "#c2b4ae"
+ }
+]

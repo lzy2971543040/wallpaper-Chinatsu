@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>千夏 · 妄想天使 | 绝区零千夏壁纸收藏</title>
+<meta name="description" content="《绝区零》千夏壁纸瀑布流画廊，收集官方美术、4K 横屏与手机竖屏壁纸。" />
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+<link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+
+<header class="topbar" id="topbar">
+  <a class="brand" href="#top">
+    <span class="brand-mark">❀</span>
+    <span class="brand-text">千夏 <em>Chinatsu</em></span>
+  </a>
+  <nav class="nav">
+    <a href="#gallery">画廊</a>
+    <a href="#about">关于</a>
+  </nav>
+  <div class="topbar-right">
+    <span class="count" id="countTop">— 张</span>
+  </div>
+</header>
+
+<section class="hero" id="top">
+  <div class="hero-bg" aria-hidden="true"></div>
+  <div class="hero-inner">
+    <p class="hero-kicker">ゼンレスゾーンゼロ · 2.6 旧梦的安可曲</p>
+    <h1 class="hero-title">千 夏</h1>
+    <p class="hero-sub">妄想天使的小小演唱会，永不散场。</p>
+    <div class="hero-stats">
+      <div class="stat"><b id="statCount">0</b><span>张壁纸</span></div>
+      <div class="stat"><b id="stat4k">0</b><span>4K 超清</span></div>
+      <div class="stat"><b id="statOff">0</b><span>官方美术</span></div>
+    </div>
+    <div class="hero-actions">
+      <a class="btn btn-primary" href="#gallery">进入画廊</a>
+      <button class="btn btn-ghost" id="randomBtn">随便来一张 ✦</button>
+    </div>
+  </div>
+  <div class="hero-scroll">向下滚动 <span>↓</span></div>
+</section>
+
+<main class="wrap" id="gallery">
+  <div class="toolbar">
+    <div class="filters" id="filters"></div>
+    <div class="toolbar-right">
+      <label class="search">
+        <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path d="M15.5 14h-.79l-.28-.27a6.5 6.5 0 1 0-.7.7l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0A4.5 4.5 0 1 1 14 9.5 4.5 4.5 0 0 1 9.5 14z" fill="currentColor"/></svg>
+        <input type="search" id="search" placeholder="搜索编号 / 分辨率 / 标签" autocomplete="off" />
+      </label>
+      <button class="icon-btn" id="shuffleBtn" title="打乱顺序">⤨</button>
+    </div>
+  </div>
+
+  <div class="result-line"><span id="resultText">加载中…</span></div>
+
+  <div class="waterfall" id="waterfall"></div>
+  <div class="sentinel" id="sentinel"></div>
+  <p class="empty" id="empty" hidden>没有匹配的壁纸，换个筛选试试 🌙</p>
+</main>
+
+<footer class="footer" id="about">
+  <div class="footer-inner">
+    <h3>关于这个画廊</h3>
+    <p>这里堆满了《绝区零》千夏（Chinatsu）的壁纸：官方影画、立绘、生贺图，以及来自网络的同人插画与高清截图。
+       图片版权归 miHoYo / HoYoverse 与原画师所有，本站仅作粉丝向收藏与浏览，不作商业用途。</p>
+    <p class="footer-meta">共 <b id="footCount">0</b> 张 · 点击任意图片可放大查看与下载 · 键盘 ← → 切换 · Esc 关闭</p>
+  </div>
+</footer>
+
+<!-- 灯箱 -->
+<div class="lightbox" id="lightbox" hidden>
+  <button class="lb-close" id="lbClose" aria-label="关闭">✕</button>
+  <button class="lb-nav lb-prev" id="lbPrev" aria-label="上一张">‹</button>
+  <button class="lb-nav lb-next" id="lbNext" aria-label="下一张">›</button>
+  <figure class="lb-figure">
+    <img id="lbImg" alt="" />
+    <figcaption class="lb-caption">
+      <div class="lb-title" id="lbTitle"></div>
+      <div class="lb-meta" id="lbMeta"></div>
+      <div class="lb-tags" id="lbTags"></div>
+    </figcaption>
+  </figure>
+  <a class="lb-download" id="lbDownload" download>下载原图</a>
+</div>
+
+<script src="data/gallery.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>
